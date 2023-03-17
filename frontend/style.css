@@ -81,3 +81,11 @@ tr{
     justify-content: center;
     align-items: center;
 }
+
+
+/*CHARTS*/
+
+.charts #myChart{
+    width: 500px !important;
+    height: 500px !important;
+}

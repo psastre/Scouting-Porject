@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "name": " Facundo",
+        "lastname": "Roncaglia",
+        "age": "35",
+        "team": "Boca",
+        "position": "DF",
+        "nacionality": "Argentina",
+        "gamesPlayed": "389",
+        "Foot": "DER"
+    },
+    {
+        "id": "2",
+        "name": "Dario",
+        "lastname": "Benedetto",
+        "age": "32",
+        "team": "Boca",
+        "position": "D",
+        "nacionality": "Argentina",
+        "gamesPlayed": "450",
+        "Foot": "IZQ"
+    },
+    {
+        "id": "3",
+        "name": "Franco",
+        "lastname": "Armani",
+        "age": "36",
+        "team": "River",
+        "position": "P",
+        "nacionality": "Argentina",
+        "gamesPlayed": "471",
+        "Foot": "DER"
+    },
+    {
+        "id": "4",
+        "name": "Enzo",
+        "lastname": "Perez",
+        "age": "36",
+        "team": "River",
+        "position": "M",
+        "nacionality": "Chile",
+        "gamesPlayed": "622",
+        "Foot": "DER"
+    },
+    {
+        "id": "5",
+        "name": "Jose Paolo",
+        "lastname": "Guerrero",
+        "age": "39",
+        "team": "Racing",
+        "position": "D",
+        "nacionality": "Peru",
+        "gamesPlayed": "456",
+        "Foot": "DER"
+    }
+]
